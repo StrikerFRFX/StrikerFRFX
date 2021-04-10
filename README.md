@@ -34,7 +34,7 @@
 </details>-->
 
 <p align='center'>
-  📫 How to reach me: <a href='mailto:zzstrikerzzyt@gmail.com'>zzstrikerzzyt@gmail.com</a>
+  📫 How to reach me: <a href='mailto:me@strikerfrfx.dev'>me@strikerfrfx.dev</a>
 </p>
 
 ## What I use:
